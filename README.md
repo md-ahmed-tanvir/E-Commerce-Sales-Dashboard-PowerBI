@@ -8,7 +8,7 @@ An interactive **E-Commerce Sales Dashboard** developed using **Microsoft Power 
 The project focuses on transforming raw sales data into an interactive and business-oriented dashboard that makes key performance indicators and sales patterns easier to understand.
 
 ---
-
+---
 ## 📌 Project Overview
 
 The objective of this project was to build an interactive Business Intelligence dashboard that provides a consolidated view of e-commerce sales performance.
